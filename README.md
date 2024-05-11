@@ -62,4 +62,6 @@ _List of movies currently showing in theaters._
 ![Specific Movie Details](/images/specific_movie.jpeg)
 _Detailed view of a movie including reviews and showtimes._
 
+Visit the backend repo [here](https://github.com/loganprit/welovemovies-back-end).
+
 Visit the live application [here](https://welovemovies-front-end-ribo.onrender.com/).
