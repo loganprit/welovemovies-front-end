@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "WeLoveMovies",
+  "name": "WeLoveMovies - An Expansive Movie Database",
   "icons": [
     {
       "src": "favicon.ico",
